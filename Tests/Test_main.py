@@ -1,6 +1,6 @@
 from Source_code.main import add
 
-def sum_fun():
+def test_fun():
     assert add(2,3) == 5
     assert add(28,22) == 50
 
